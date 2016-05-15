@@ -17,8 +17,10 @@ import java.util.Date;
 /**
  *
  * @author FRANKLIN
+ * //esta es la modificacion que relize 
  */
 public class clspersona {
+    
     private int _Id;
     private String _Nombre;
     private String _Direccion;
